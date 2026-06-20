@@ -1,0 +1,20 @@
+# dataset (too large)
+dataset/images/
+dataset/labels/
+dataset/raw_kitti/
+dataset/kitti_labels/
+
+# training outputs
+runs/
+
+# python cache
+__pycache__/
+*.pyc
+
+# virtual env
+kitti_env/
+venv/
+
+# OS files
+.DS_Store
+*.pt
