@@ -1,0 +1,15 @@
+path: /home/hs-coburg.de/lin4181s/kitti_yolo/dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: Car
+  1: Pedestrian
+  2: Cyclist
+  3: Van
+  4: Truck
+  5: Tram
+  6: Person_sitting
+  7: Misc
+  8: Dont_care
