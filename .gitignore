@@ -18,3 +18,20 @@ venv/
 # OS files
 .DS_Store
 *.pt
+
+# datasets
+dataset/images/
+dataset/labels/
+dataset/raw_kitti/
+dataset/kitti_labels/
+dataset/labels_all/
+
+# training outputs and weights
+runs/
+*.pt
+*.cache
+
+# env/cache
+kitti_env/
+__pycache__/
+*.pyc
